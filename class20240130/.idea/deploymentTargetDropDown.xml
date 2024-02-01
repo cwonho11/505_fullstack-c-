@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="alaramtest">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="eventex">
+        <State />
+      </entry>
+      <entry key="kakao_password">
+        <State />
+      </entry>
+      <entry key="layoutex">
+        <State />
+      </entry>
+      <entry key="telkeypad">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
