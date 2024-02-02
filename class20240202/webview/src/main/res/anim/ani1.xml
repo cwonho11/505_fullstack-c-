@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+duration : 애니메이션 지속시간
+pivotX: x축 기준점을 지정
+pivotY: y축 기준점을 지정
+fromXScale: 시작할 x축 크기 비율을 지정
+fromYScale: 시작할 y축 크기 비율을 지정
+toXScale: 종료할 x축 크기 비율을 지정
+toYScale: 종료할 y축 크기 비율을 지정
+-->
+<scale xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="3000"
+    android:pivotX="50%"
+    android:pivotY="50%"
+    android:fromXScale="1.0"
+    android:fromYScale="1.0"
+    android:toXScale="3.0"
+    android:toYScale="3.0">
+</scale>
