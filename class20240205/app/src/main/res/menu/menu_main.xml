@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu1"
+        android:title="리스트 메뉴1"/>
+
+    <!--
+        showAsAction 속성값
+        never(기본) : 항상 오버플로 메뉴로 출력
+        ifRoom : 액션바에 공간이 있으면 액션 아이템으로, 없으면 오버플로 메뉴로 출력
+        always : 항상 액션 아이템으로 출력
+    -->
+    <item
+        android:id="@+id/menu2"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="리스트 메뉴2"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu3"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="리스트 메뉴3"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/menu_search"
+        android:title="검색"
+        app:showAsAction="always"
+        app:actionViewClass="androidx.appcompat.widget.SearchView" />
+</menu>
