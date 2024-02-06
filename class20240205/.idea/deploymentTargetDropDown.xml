@@ -2,13 +2,25 @@
 <project version="4">
   <component name="deploymentTargetDropDown">
     <value>
+      <entry key="All Tests">
+        <State />
+      </entry>
       <entry key="app">
+        <State />
+      </entry>
+      <entry key="drawerlayoutex">
         <State />
       </entry>
       <entry key="fragmentex">
         <State />
       </entry>
+      <entry key="jetpackex">
+        <State />
+      </entry>
       <entry key="recyclerviewex">
+        <State />
+      </entry>
+      <entry key="viewpagerex">
         <State />
       </entry>
     </value>
