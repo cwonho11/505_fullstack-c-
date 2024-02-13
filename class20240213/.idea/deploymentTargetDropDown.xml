@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="coroutine_ex">
+        <State />
+      </entry>
+      <entry key="materialex">
+        <State />
+      </entry>
+      <entry key="navigationviewex">
+        <State />
+      </entry>
+      <entry key="tablayoutex">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
